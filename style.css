@@ -1,0 +1,18 @@
+#searchBar {
+  margin: 15px 10px;
+}
+
+.tableWrapper {
+  max-height: 400px;
+  overflow: auto;
+}
+
+#singleEntry {
+	background-color: LightGreen;
+}
+
+#bigboy {
+	
+	background-color: pink;
+	
+}
